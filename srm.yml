@@ -1,3 +1,4 @@
-streams:
-  cerberus:
-    core: gamma
+stream: cerberus
+
+aspects:
+  core: gamma
